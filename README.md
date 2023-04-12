@@ -5,9 +5,11 @@ This project covers usage of topics sucs as macros, class, objects, array, funct
 On execution of this code users get a menu with 7 options to choose from - 1 to 7 and then program runs according to user selection.
 
 Features implemented in this project are : <br>
-    -Manage Rooms <br>
-    -Check-In <br>
-    -Get available rooms <br>
-    -Search customer <br>
-    -Check-out room <br>
-    -Get guest summary report
+<ul>
+    <li>Manage Rooms </li>
+    <li>Check-In </li>
+    <li>Get available rooms </li>
+    <li>Search customer </li>
+    <li>Check-out room </li>
+    <li>Get guest summary report </li>
+</ul>   
