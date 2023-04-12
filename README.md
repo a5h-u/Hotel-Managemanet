@@ -6,8 +6,8 @@ On execution of this code users get a menu with 7 options to choose from - 1 to 
 
 Features implemented in this project: <br>
     -Manage Rooms <br>
-    -Check-In
-    -Get available rooms
-    -Search customer
-    -Check-out room
+    -Check-In <br>
+    -Get available rooms <br>
+    -Search customer <br>
+    -Check-out room <br>
     -Get guest summary report
